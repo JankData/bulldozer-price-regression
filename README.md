@@ -39,7 +39,7 @@ The notebook will automatically detect the dataset:
    - Dealing with missing values  
 
 2. **Modeling**  
-   - Trained a machine learning regression model (e.g., Random Forest / XGBoost)  
+   - Trained a machine learning regression model (Random Forest)  
    - Tuned hyperparameters  
    - Evaluated performance using RMSLE  
 
