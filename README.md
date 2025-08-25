@@ -14,7 +14,7 @@ This repository contains my end-to-end solution, including:
 ## Dataset  
 The dataset is **not included in this repository** due to its large size.  
 It can be downloaded directly from Kaggle:  
-👉 [Blue Book for Bulldozers dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/data)  
+[Blue Book for Bulldozers dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/data)  
 
 ---
 
