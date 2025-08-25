@@ -60,7 +60,7 @@ Below is the **feature importance plot** from the final trained model:
 ## How to Run  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/bulldozer-price-regression.git
+   git clone https://github.com/JankData/bulldozer-price-regression.git
    cd bulldozer-price-regression
    jupyter notebook bulldozer_price_regression_1.ipynb
    ```
